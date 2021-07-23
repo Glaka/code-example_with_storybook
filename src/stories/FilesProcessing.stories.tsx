@@ -118,5 +118,5 @@ export const FilesProcessingModal = () => {
 
 export default {
     component: FilesProcessingModal,
-    title: 'Example/FilesProcessingModal',
+    title: 'FilesProcessingModal',
 };
